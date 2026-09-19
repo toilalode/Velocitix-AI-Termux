@@ -126,7 +126,7 @@ def main():
 
     while True:
         try:
-            user_text = input("Bạn: ").strip()
+            user_text = input("Bro: ").strip()
         except (KeyboardInterrupt, EOFError):
             print("\nĐừng mà bro!")
             break
